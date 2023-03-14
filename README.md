@@ -1,1 +1,5 @@
 # Geolocation
+
+The following is a project that geolocates the location where the image is taken using only the metadatas of the given image taken at the the same spot at different times of the day. The datas that are used for the geolocation of the spot where the photo is taken are the date and time of capture, the date, the brightness and luminosity etc... This project is particularly useful for example, someone set up a wildlife camera and whilst collecting the data from that camera, he does not know where the footage or photo was taken. This could help in geolocating the spot.
+
+The accuracy of this is not pinpoint accuracy as we are only working with the metadatas of the images and not the images itself. Processing the raw images takes too much time and resources and I am unable to do so with my setup.                                                                                                                                                                                                                                                                                                                                    
